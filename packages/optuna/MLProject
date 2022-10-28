@@ -1,0 +1,12 @@
+name: optuna
+python_env: python_env.yaml
+
+entry_points:
+  main:
+    parameters:
+      command:
+        description: Enter command to execute
+        type: str
+        default: jupyter-lab
+
+    command: python -m {command}

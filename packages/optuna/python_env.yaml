@@ -1,0 +1,12 @@
+# Python version required to run the project.
+python: "3.9.13"
+
+# Dependencies required to build packages. This field is optional.
+build_dependencies:
+  - pip
+
+# Dependencies required to run the project.
+dependencies:
+  - scikit-learn==1.0.2
+  - optuna==3.0.0
+  - jupyterlab==3.4.4
