@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/5204c1541f8641d9a5d3f0066f78e940/artifacts
+end_time: 1667053493636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5204c1541f8641d9a5d3f0066f78e940
+run_uuid: 5204c1541f8641d9a5d3f0066f78e940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667047401339
+status: 3
+tags: []
+user_id: Italo
