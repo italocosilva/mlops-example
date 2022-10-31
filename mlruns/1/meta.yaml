@@ -1,0 +1,6 @@
+artifact_location: ./mlruns/1
+creation_time: 1667219198509
+experiment_id: '1'
+last_update_time: 1667219198509
+lifecycle_stage: active
+name: Training

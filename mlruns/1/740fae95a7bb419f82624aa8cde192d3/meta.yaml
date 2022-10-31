@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/740fae95a7bb419f82624aa8cde192d3/artifacts
+end_time: 1667219230702
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 740fae95a7bb419f82624aa8cde192d3
+run_name: nosy-sheep-354
+run_uuid: 740fae95a7bb419f82624aa8cde192d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667219217455
+status: 3
+tags: []
+user_id: Italo

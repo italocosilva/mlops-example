@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/881c1ff3d8e4449cad33c6d329525f85/artifacts
+end_time: 1667257144080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 881c1ff3d8e4449cad33c6d329525f85
+run_name: adorable-crow-777
+run_uuid: 881c1ff3d8e4449cad33c6d329525f85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667257140086
+status: 4
+tags: []
+user_id: Italo

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/83d4873bcbe34972a94440b69a66db16/artifacts
+end_time: 1667219126189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83d4873bcbe34972a94440b69a66db16
+run_name: tasteful-kit-841
+run_uuid: 83d4873bcbe34972a94440b69a66db16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667219113327
+status: 3
+tags: []
+user_id: Italo

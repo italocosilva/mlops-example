@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/2/966ec25420b349c998c001909a8ec145/artifacts
+end_time: 1667219804705
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 966ec25420b349c998c001909a8ec145
+run_name: receptive-snail-127
+run_uuid: 966ec25420b349c998c001909a8ec145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667219789190
+status: 3
+tags: []
+user_id: Italo

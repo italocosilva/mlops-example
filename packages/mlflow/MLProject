@@ -1,0 +1,20 @@
+name: mlflow
+
+experiment_name: Testing
+
+entry_points:
+  main:
+    parameters:
+      max_depth:
+        description: Maximum tree depth
+        type: int
+        default: 1000000
+      min_samples_split:
+        description: Minimum node samples for new split
+        type: int
+        default: 2
+    command: python training.py --max_depth {max_depth} 
+                                --min_samples_split {min_samples_split}
+  
+  use-model:
+    command: python use_model.py

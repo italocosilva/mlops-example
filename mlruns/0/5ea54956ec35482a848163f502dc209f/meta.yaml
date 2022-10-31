@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/5ea54956ec35482a848163f502dc209f/artifacts
+end_time: 1667219891507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ea54956ec35482a848163f502dc209f
+run_name: unleashed-flea-664
+run_uuid: 5ea54956ec35482a848163f502dc209f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667219873495
+status: 3
+tags: []
+user_id: Italo
