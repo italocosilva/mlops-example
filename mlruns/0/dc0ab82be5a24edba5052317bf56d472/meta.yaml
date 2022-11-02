@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/dc0ab82be5a24edba5052317bf56d472/artifacts
+end_time: 1667427203757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc0ab82be5a24edba5052317bf56d472
+run_name: puzzled-hawk-603
+run_uuid: dc0ab82be5a24edba5052317bf56d472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427197109
+status: 3
+tags: []
+user_id: root

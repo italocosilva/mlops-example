@@ -1,0 +1,26 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 1.30.0
+model_uuid: eea166a32bb34105810c69db62530977
+run_id: 22421cf0e17740c7890303b960ea1614
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "Elevation", "type": "double"}, {"name": "Horizontal_Distance_To_Roadways",
+    "type": "double"}, {"name": "Wilderness_Area_0", "type": "double"}, {"name": "Soil_Type_21",
+    "type": "double"}, {"name": "Soil_Type_22", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2022-11-02 22:10:26.770924'

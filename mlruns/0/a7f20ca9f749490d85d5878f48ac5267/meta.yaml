@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/a7f20ca9f749490d85d5878f48ac5267/artifacts
+end_time: 1667427214779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7f20ca9f749490d85d5878f48ac5267
+run_name: gregarious-dog-885
+run_uuid: a7f20ca9f749490d85d5878f48ac5267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427209483
+status: 3
+tags: []
+user_id: root

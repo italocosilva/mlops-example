@@ -1,0 +1,5 @@
+name: optuna
+best_params:
+  max_depth: 22
+  min_samples_split: 177
+best_value: 0.7349552076968753

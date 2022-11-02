@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/cb8be2ae25554a79a946348d75cabe3a/artifacts
+end_time: 1667427099649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb8be2ae25554a79a946348d75cabe3a
+run_name: beautiful-gnat-948
+run_uuid: cb8be2ae25554a79a946348d75cabe3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427090045
+status: 3
+tags: []
+user_id: root

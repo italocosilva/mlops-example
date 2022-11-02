@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/9ecbeb18b7f5412985de7c38d4b5e3ea/artifacts
+end_time: 1667427173872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ecbeb18b7f5412985de7c38d4b5e3ea
+run_name: mysterious-whale-239
+run_uuid: 9ecbeb18b7f5412985de7c38d4b5e3ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427168733
+status: 3
+tags: []
+user_id: root

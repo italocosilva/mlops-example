@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/6a0434457b824f08be1e1c9df6a22feb/artifacts
+end_time: 1667427179321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a0434457b824f08be1e1c9df6a22feb
+run_name: angry-mole-289
+run_uuid: 6a0434457b824f08be1e1c9df6a22feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427174135
+status: 3
+tags: []
+user_id: root

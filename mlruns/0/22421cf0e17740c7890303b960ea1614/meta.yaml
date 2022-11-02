@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/22421cf0e17740c7890303b960ea1614/artifacts
+end_time: 1667427030713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22421cf0e17740c7890303b960ea1614
+run_name: placid-shrike-263
+run_uuid: 22421cf0e17740c7890303b960ea1614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427019925
+status: 3
+tags: []
+user_id: root

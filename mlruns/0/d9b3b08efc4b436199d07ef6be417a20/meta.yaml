@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/d9b3b08efc4b436199d07ef6be417a20/artifacts
+end_time: 1667427185106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9b3b08efc4b436199d07ef6be417a20
+run_name: masked-roo-540
+run_uuid: d9b3b08efc4b436199d07ef6be417a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427179591
+status: 3
+tags: []
+user_id: root

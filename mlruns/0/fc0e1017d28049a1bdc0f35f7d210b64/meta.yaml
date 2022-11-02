@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/fc0e1017d28049a1bdc0f35f7d210b64/artifacts
+end_time: 1667427220373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc0e1017d28049a1bdc0f35f7d210b64
+run_name: secretive-skink-434
+run_uuid: fc0e1017d28049a1bdc0f35f7d210b64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427215045
+status: 3
+tags: []
+user_id: root

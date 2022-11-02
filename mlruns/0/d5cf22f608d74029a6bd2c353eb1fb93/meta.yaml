@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/d5cf22f608d74029a6bd2c353eb1fb93/artifacts
+end_time: 1667427221034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5cf22f608d74029a6bd2c353eb1fb93
+run_name: sassy-conch-548
+run_uuid: d5cf22f608d74029a6bd2c353eb1fb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427156503
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/d32459e46fe5479ebfe4c48e7beff0b0/artifacts
+end_time: 1667427196786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d32459e46fe5479ebfe4c48e7beff0b0
+run_name: shivering-goose-232
+run_uuid: d32459e46fe5479ebfe4c48e7beff0b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667427190960
+status: 3
+tags: []
+user_id: root

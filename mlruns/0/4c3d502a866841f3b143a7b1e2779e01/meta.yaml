@@ -1,0 +1,15 @@
+artifact_uri: file:///root/mlops-example/mlruns/0/4c3d502a866841f3b143a7b1e2779e01/artifacts
+end_time: 1667426824938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c3d502a866841f3b143a7b1e2779e01
+run_name: unruly-doe-774
+run_uuid: 4c3d502a866841f3b143a7b1e2779e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667426814354
+status: 3
+tags: []
+user_id: root
