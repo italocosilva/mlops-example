@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/c0e7c769fe56425b921a1fee143f63a9/artifacts
+end_time: 1667258649846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0e7c769fe56425b921a1fee143f63a9
+run_name: dapper-owl-104
+run_uuid: c0e7c769fe56425b921a1fee143f63a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667258642542
+status: 4
+tags: []
+user_id: Italo

@@ -1,0 +1,19 @@
+name: hydra
+
+entry_points:
+  main:
+    parameters:
+      hydra_options:
+        description: Hydra parameters to override
+        type: str
+        default: ''
+    command: >-
+      for /f "usebackq tokens=*" %i in 
+        (`
+          if {hydra_options} == '' (echo training.py)
+          else (echo training.py {hydra_options})
+        `) 
+        do python %i
+    command: python training.py echo {hydra_options}
+
+for /f "usebackq tokens=*" %i in (`if '' == '' (echo training.py) else (echo training.py "bla")`) do python %i

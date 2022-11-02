@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/f06b3fd1afed41f3862786029b3ea9f0/artifacts
+end_time: 1667258009872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f06b3fd1afed41f3862786029b3ea9f0
+run_name: resilient-fawn-171
+run_uuid: f06b3fd1afed41f3862786029b3ea9f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667258001663
+status: 4
+tags: []
+user_id: Italo

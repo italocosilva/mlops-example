@@ -1,7 +1,5 @@
 name: mlflow
 
-experiment_name: Testing
-
 entry_points:
   main:
     parameters:
