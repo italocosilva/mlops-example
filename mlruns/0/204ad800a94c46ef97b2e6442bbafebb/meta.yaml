@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/204ad800a94c46ef97b2e6442bbafebb/artifacts
+end_time: 1667421023306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 204ad800a94c46ef97b2e6442bbafebb
+run_name: skillful-ox-214
+run_uuid: 204ad800a94c46ef97b2e6442bbafebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667421014457
+status: 3
+tags: []
+user_id: root

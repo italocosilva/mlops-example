@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/8a005c04280448d487358661952702d5/artifacts
+end_time: 1667421126276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a005c04280448d487358661952702d5
+run_name: amazing-pug-802
+run_uuid: 8a005c04280448d487358661952702d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667421122829
+status: 4
+tags: []
+user_id: root

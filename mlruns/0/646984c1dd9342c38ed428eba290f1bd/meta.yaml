@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/646984c1dd9342c38ed428eba290f1bd/artifacts
+end_time: 1667422041068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646984c1dd9342c38ed428eba290f1bd
+run_name: incongruous-moth-461
+run_uuid: 646984c1dd9342c38ed428eba290f1bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667422037700
+status: 4
+tags: []
+user_id: root

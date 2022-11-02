@@ -8,4 +8,4 @@ entry_points:
         type: str
         default: jupyterlab
 
-    command: python -m {command}
+    command: python -m {command} --allow-root

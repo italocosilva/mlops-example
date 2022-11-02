@@ -1,0 +1,4 @@
+params:
+  max_depth: 1000000
+  min_samples_split: 2
+  random_state: 23

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/3f8e18e81e4a46828eb9dd8864a039ca/artifacts
+end_time: 1667422355526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f8e18e81e4a46828eb9dd8864a039ca
+run_name: salty-smelt-572
+run_uuid: 3f8e18e81e4a46828eb9dd8864a039ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667422345750
+status: 4
+tags: []
+user_id: root

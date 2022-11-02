@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/ada3a2550a474baf889690ba9cc56950/artifacts
+end_time: 1667418405207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ada3a2550a474baf889690ba9cc56950
+run_name: omniscient-loon-964
+run_uuid: ada3a2550a474baf889690ba9cc56950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667418403825
+status: 4
+tags: []
+user_id: root

@@ -8,6 +8,7 @@ import mlflow
 from mlflow.models import infer_signature
 import hydra
 from omegaconf import DictConfig
+import os
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s")
 logger = logging.getLogger(__name__)
@@ -17,7 +18,8 @@ def train_model(config: DictConfig):
     with mlflow.start_run():
         # Read data
         logger.info('Reading data')
-        df = pd.read_csv('../optuna/cover_type.csv')
+        root_path = hydra.utils.get_original_cwd()
+        df = pd.read_csv(os.path.join(os.path.dirname(root_path), 'optuna/cover_type.csv'))
 
         # Split data
         logger.info('Splitting data')

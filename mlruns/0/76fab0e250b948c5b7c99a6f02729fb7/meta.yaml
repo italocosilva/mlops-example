@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Italo/Meu%20Drive/06.%20Data%20Science/mlops-example/mlruns/0/76fab0e250b948c5b7c99a6f02729fb7/artifacts
+end_time: 1667422230932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76fab0e250b948c5b7c99a6f02729fb7
+run_name: blushing-snipe-610
+run_uuid: 76fab0e250b948c5b7c99a6f02729fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667422210572
+status: 3
+tags: []
+user_id: root
